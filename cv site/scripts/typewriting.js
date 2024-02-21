@@ -1,4 +1,4 @@
-var strings_list = ["Programming",  "Database", "Designing" , "Gaming", "Learning new Tech Stuff"];	//Strings to be displayed
+var strings_list = ["Programming", "Database", "Designing" , "Gaming", "Tech Stuffs"];	//Strings to be displayed
 var string_number = 0;		//Index of current string that is being displayed
 var character_index = 0;		//Character index of the string
 var interval_flag;		// Holds the handle returned from setInterval
